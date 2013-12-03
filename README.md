@@ -1,9 +1,9 @@
 Life
 ====
 
-This is something that I've wanted to build for a long time. It's a **timeline of important events** in my life, visualized in a way my mind always imagine it. There was something called [**Lifepath.me**](http://dcurt.is/facebook-timelines-and-lifepath-me-4) but now it's gone. How about Facebook timeline? Meh.
+This is the timeline of my life. First experimentation using GitHub.
 
-So, this is it. Have a look at [cheeaun.github.io/life](http://cheeaun.github.io/life).
+[Chee Aun](http://github.com/cheeaun) created [Life](http://cheeaun.github.io/life).
 
 Features
 --------
@@ -13,13 +13,6 @@ Features
 - No fancy setup
 - No fancy effects
 - Flexible datetimes because sometimes you don't remember the exact date of an event
-
-How to contribute
------------------
-
-1. Fork this project.
-2. Write code.
-3. Make pull requests.
 
 How to setup your own *Life*
 ----------------------------
@@ -40,14 +33,6 @@ How to upgrade your *Life*
 4. `git checkout gh-pages` and `git merge master` to sync changes back to GitHub Pages.
 
 [Learn more](https://help.github.com/articles/fork-a-repo).
-
-For those who forked the earlier version of Life, these are the steps that I would recommend (requires some Git-fu):
-
-1. Backup your `life.md`.
-2. Reset (hard) your fork to this repo's `master` branch.
-3. Clean up your `gh-pages`.
-4. Re-commit your `life.md` there.
-5. Make sure your `master` branch is untouched so that future updates work.
 
 How to configure your *Life*
 ----------------------------
